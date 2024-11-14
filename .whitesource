@@ -1,7 +1,6 @@
 {
   "scanSettings": {
-    "enableIaC": true,
-    "baseBranches": []
+    "enableIaC": true
   },
   "checkRunSettings": {
     "useMendCheckNames": true,
